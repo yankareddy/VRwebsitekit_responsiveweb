@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-kit-card-head {
+    font-size: 23px;
+}
+
+.vr-kit-card-image {
+    height: 200px;
+    width: 60%;
+}
+
+.vr-kit-head {
+    color: #1f2933;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.vr-kit-bg {
+    background-color: #f9fbfe;
+}
